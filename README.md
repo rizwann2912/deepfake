@@ -21,11 +21,11 @@ Deepfake_detection_using_deep_learning
    
 ## 3. System Architecture
 <p align="center">
-  <img src="https://github.com/rizwann2912/deepfake/blob/master/github_assets/System%20Architecture.png" />
+  <img src="https://github.com/rizwann2912/deepfake/blob/main/github_assets/System%20Architecture.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/rizwann2912/deepfake/blob/master/github_assets/fakegif.gif" />
+  <img src="https://github.com/rizwann2912/deepfake/blob/main/github_assets/fakegif.gif" />
 </p>
 
 ## 4. Results
